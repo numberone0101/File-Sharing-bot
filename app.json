@@ -6,7 +6,7 @@
     "file",
     "sharing"
   ],
-  "repository": "https://github.com/Zaen67/File-Sharing-Bot",
+  "repository": "https://github.com/Yansaii/File-Sharing-Bot",
   "logo": "https://telegra.ph/file/c168ea48b97c702017ead.jpg",
   "env": {
     "TG_BOT_TOKEN": {
@@ -15,11 +15,11 @@
     },
     "OWNER": {
       "description": "Masukan Username Telegram untuk Owner BOT [ Jangan Pake @ ]",
-      "value": "TeleUdahRusak"
+      "value": " BdrlBukan"
     },
     "OWNER_ID": {
       "description": "Masukan User ID Telegram untuk Owner BOT",
-      "value": "1783401893"
+      "value": "1883126074"
     },
     "ADMINS": {
       "description": "Masukan User ID untuk mendapatkan hak Admin BOT [Hanya dapat membuat link]",
@@ -63,12 +63,12 @@
     },
     "CHANNEL":{
       "description": "Masukan Username Channel anda Untuk Wajib Subscribenya [ Jangan Pake @ ]",
-      "value": "ZaenSupport",
+      "value": "Yansupp",
       "required": false
     },
     "GROUP":{
       "description": "Masukan Username dari Group anda Untuk Wajib Subscribenya [ Jangan Pake @ ]",
-      "value": "ZaenSupport",
+      "value": "RuangTerbukaa",
       "required": false
    } 
   },
