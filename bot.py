@@ -1,5 +1,5 @@
 # (©)Codexbotz
-# Recode By @Mafia_Tobatz
+# Recode By Zaen @Mafia_Tobatz
 # Kalo clone Gak usah hapus 
 # gue tandain akun tele nya ngentod
 
@@ -14,6 +14,7 @@ from config import (
     CHANNEL_ID,
     FORCE_SUB_CHANNEL,
     FORCE_SUB_GROUP,
+    FORCE_SUB_CHANNEL1,
     FORCE_SUB_CHANNEL1,
     FORCE_SUB_GROUP1,
     LOGGER,
