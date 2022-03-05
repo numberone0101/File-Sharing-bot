@@ -1,5 +1,5 @@
 # (©)Codexbotz
-# Recife By @Mafia_Tobatz
+# Recife By Zaen @Mafia_Tobatz
 # Kalo clone Gak usah hapus 
 # gue tandain akun tele nya ngentod
 
@@ -17,7 +17,9 @@ from config import ADMINS, FORCE_SUB_CHANNEL, FORCE_SUB_GROUP, FORCE_SUB_CHANNEL
 async def is_subscribed(filter, client, update):
     if not FORCE_SUB_CHANNEL:
         return True
-    if not FORCE_SUB_CHANNEL1: 
+    if not FORCE_SUB_CHANNEL1:
+        return True
+    if not FORCE_SUB_CHANNEL1:   
         return True
     if not FORCE_SUB_GROUP:
         return True
