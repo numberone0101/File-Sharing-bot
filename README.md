@@ -1,11 +1,11 @@
-# ♻️File-Sharing♻️
+# ⚛File-Sharing⚛
 
 Bot Telegram untuk menyimpan Posting atau File yang dapat Diakses melalui Link Khusus.
 
 <img src="https://telegra.ph/file/b688e58dc41a577ec1616.jpg">
 
 
-### Setup Repo ini join 4 ch ngentod
+### Setup Repo ini join 5 ch ngentod
 
 - Tambahkan bot ke Channel Database dengan semua izin admin
 - Tambahkan bot ke Channel ForceSub tambahkan bot sebagai ADMIN
