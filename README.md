@@ -2,7 +2,7 @@
 
 Bot Telegram untuk menyimpan Posting atau File yang dapat Diakses melalui Link Khusus.
 
-<img src="https://telegra.ph/file/b688e58dc41a577ec1616.jpg">
+<img src="https://telegra.ph/file/2061f62b135e0b91880b5.jpg ">
 
 
 ### Setup Repo ini join 5 ch ngentod
